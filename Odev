@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Ödev</title>
+</head>
+<body>
+    <div>
+        <h1>Hidayet</h1>
+        <h2>Hakkımda</h2>
+        <p>Merhabalar ben Hidayet. Öğrenmeyi severim.</p>
+    </div>
+
+    <div>
+        <h3>İlgi alanlarım</h3>
+        
+        <ol type="I" style="color:red">
+            <li><strong><span style="color:blueviolet">Filmler</span></strong></li>
+                <ul style="list-style-type:circle">
+                    <li><a href="https://www.imdb.com/title/tt0361748/">İnglorious Bastards</a></li>
+                    <li><a href="https://www.imdb.com/title/tt0068646/">The Godfather</a></li>
+                    <li><a href="https://www.imdb.com/title/tt0128332/">Masumiyet</a></li>
+                </ul>
+            <li><strong><span style="color:blueviolet">Diziler</span></strong></li>
+                 <ul style="list-style-type:circle">
+                    <li><a href="https://www.imdb.com/title/tt0141842/">Sopranos</a></li>
+                    <li><a href="https://www.imdb.com/title/tt0421291/">Avrupa Yakası</a></li>
+                    <li><a href="https://www.imdb.com/title/tt4077876/">Demirkırat</a></li>
+                </ul>
+            <li><strong><span style="color:blueviolet">Kitaplar</span></strong></li>
+                <ul style="list-style-type:circle">
+                    <li><a href="https://www.goodreads.com/ca/book/show/3238627-afrikal-leo">Afrikalı Leo</a></li>
+                    <li><a href="https://www.goodreads.com/book/show/1532005-Mutluluk">Mutluluk</a></li>
+                    <li><a href="https://www.goodreads.com/book/show/9269663-sefiller">Sefiller</a></li>
+                </ul>
+
+
+        </ol>
+        
+        
+    </div>
+    
+    <div>
+        <h2>Sevdiğim Diziler</h2>
+        <h3>Sopranos</h3>
+        <img src="https://m.media-amazon.com/images/M/MV5BNDI5OGYzYzQtMzc0Zi00ODgxLTlkZjEtZGU2YmFlNmU1Y2EwXkEyXkFqcGdeQXVyNTI4MTcwOTc@._V1_.jpg" alt="sopranos" title="sopranosimage" height="500" width="333">
+        <p>Dizinin konusu New Jersey'de bir Amerikan-İtalyan mafya ailesi patronu Tony Soprano'nun meslek, suç, şiddet, aile, adalet ve dostluk kavramları arasındaki denge kurma mücadelesi üzerine kurulmuştur. Dizi aynı zamanda Soprano ailesinin bireyleri ve Tony'nin yakınında bulunan insanların hayatından da kesitler sunar.</p>
+        
+    </div>
+</body>
+</html>
