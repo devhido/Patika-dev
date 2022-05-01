@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(224, 220, 220);
+}
+
+#Header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(201, 39, 115);
+    font-style: normal;    
+}
+
+.page-head{
+    text-align: center;
+    color: blueviolet;
+}
+
+.nav-menu{
+    text-align: center;
+    color: rgb(94, 51, 51);
+    word-spacing: 25px;
+    font-weight: bold;
+}
+
+.menu{
+    display: inline;
+}
+
+#container{
+    width: 300px;
+    height: 600px;
+    margin: auto;
+}
+
+#list{
+    margin:auto;
+    width : 300px;
+    height: 600px;
+
+}
+
+#lis{
+    margin: auto;
+    vertical-align: middle;
+}
+
+.madde{
+    margin-left: 100px;
+}
+
+.urun-list{
+    width:max-content;
+    height:max-content;
+    margin:auto;
+    text-align: center;
+    
+}
+
+.urun-pic{
+    max-width:200px;
+    max-height:400px;
+    border: 5px solid;
+    border-color: black;
+    border-radius: 2px;
+    
+}
+
+.aciklama{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top:auto;
+    font-weight: bold;
+}
+
+.contact{
+    width: 400px;
+    height: max-content;
+    margin: auto;
+    color: brown;
+    font-weight: bold;
+    border: 1px solid;
+    
+}
+
+#lasthead{
+    border: 1px solid;
+    margin-left: 150px;
+
+}
+   
+
+
+
+
+
+
+
